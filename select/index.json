@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "乾涸びたバスひとつ",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-12T04:47:09.796835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乾涸びたバスひとつ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_乾涸びたバスひとつ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乾涸びたバスひとつ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_乾涸びたバスひとつ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "乾涸びたバスひとつ",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_乾涸びたバスひとつ_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "乾涸びたバスひとつ",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/04_乾涸びたバスひとつ_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "乾涸びたバスひとつ",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/05_乾涸びたバスひとつ_米津玄师.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乾涸びたバスひとつ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_乾涸びたバスひとつ_米津玄師.txt"
+    }
+  ]
+}
